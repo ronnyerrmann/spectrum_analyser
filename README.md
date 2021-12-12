@@ -1,5 +1,5 @@
 # spectrum_analyser
-Creates a Lomb-Scargle Periodogram
+Creates a Lomb-Scargle Periodogram in C++
 
 This was part of an job application exercise: A proprietary programm (WaveGen.exe) created some file containing a period signal. I had to find "the frequency of the highest amplitude wave in each file" and put it into a result file, together with the filename, and sort by frequency.
 
