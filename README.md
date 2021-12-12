@@ -3,7 +3,7 @@ Creates a Lomb-Scargle Periodogram
 
 This was part of an job application exercise: A proprietary programm (WaveGen.exe) created some file containing a period signal. I had to find "the frequency of the highest amplitude wave in each file" and put it into a result file, together with the filename, and sort by frequency.
 
-I have chosen the generalised Lomb-Scargle Periodogram to find the frequency of the highest amplitude.
+I have chosen the generalised Lomb-Scargle Periodogram to find the frequency of the highest amplitude. Benefits are: independent of other frequencies in the data and data points don't need to be evenly spaced.
 
 Compile with a C++ compiler above version 11, e.g. [https://nuwen.net/mingw.htm](https://nuwen.net/mingw.htm)
 ```
