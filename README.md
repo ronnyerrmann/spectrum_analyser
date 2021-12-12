@@ -26,3 +26,5 @@ Seconds,Volts
 5.206447E-06, -0.3604565
 ...
 ```
+
+The code to save the Periodogram as .csv or to save the phase-folded signal as .csv is currently commented out.
